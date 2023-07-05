@@ -1,0 +1,28 @@
+{
+  "name": "zpl-printer",
+  "version": "1.0.0",
+  "description": "Print through the web app with zebra printer language",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abizarah",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abizrh/zpl-printer.git"
+  },
+  "keywords": [
+    "zpl-printer",
+    "printer",
+    "zpl"
+  ],
+  "bugs": {
+    "url": "https://github.com/Abizrh/zpl-printer/issues"
+  },
+  "homepage": "https://github.com/Abizrh/zpl-printer#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
